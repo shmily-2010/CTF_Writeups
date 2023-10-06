@@ -89,4 +89,6 @@ if __name__ == "__main__":
     main(input_file, output_file)
 ```
 
+Đọc file flag.txt là ta sẽ thu được flag.
+
 > **Flag**: `bctf{tw0_po1nt_4_g33_c0ng3s7i0n}`
